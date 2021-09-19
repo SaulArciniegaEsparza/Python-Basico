@@ -4,21 +4,24 @@
 
 Este es un curso introductorio de Python en el que se abarcan las estructuras básicas de este lenguaje de programación.
 
-> **Objetivo**
-> Introducir a estudiantes y profesionistas al uso de Python orientado a las *Ciencas de la Tierra y la Ingeniería*.
+**Objetivo**: Introducir a estudiantes y profesionistas al uso de Python orientado a las *Ciencas de la Tierra y la Ingeniería*.
 
 ## Contenido
 
-1. **Introducción a Python**
-2. **Números con Python**
-3. **Cadenas de caracteres**
-4. **Listas y Tuplas**
-5. **Diccionarios**
-6. **Errores y excepciones**
-7. **Operadores lógicos**
-8. **Estructuras de control**
-9. **Importar módulos**
-10. **Creación de funciones**
+El contenido de este curso se puede descargar en una computadora personal o lo puedes visualizar desde [Jypyter NBViewer](https://nbviewer.jupyter.org/github/SaulArciniegaEsparza/Python-Basico/tree/main/).
+
+Adicionalmente, puede cargar el contenido de forma interactiva con [Google Colab](https://colab.research.google.com) para trabajar en la nube.
+
+1. **Introducción a Python** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/01_Introduccion.ipynb)
+2. **Números con Python** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/02_Numeros.ipynb)
+3. **Cadenas de caracteres** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/03_Cadenas_de_Caracteres.ipynb)
+4. **Listas y Tuplas** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/04_Listas.ipynb)
+5. **Diccionarios** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/05_Diccionarios.ipynb)
+6. **Errores y excepciones** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/06_Errores_y_excepciones.ipynb)
+7. **Operadores lógicos** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/07_Operadores_Logicos.ipynb)
+8. **Estructuras de control** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/08_Estructuras_de_control.ipynb)
+9. **Importar módulos** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/09_Importar_modulos.ipynb)
+10. **Creación de funciones** | [Abrir en Google Colab](https://colab.research.google.com/github/SaulArciniegaEsparza/Python-Basico/blob/main/10_Creacion_de_Funciones.ipynb)
 
 ## Requerimientos
 
@@ -35,7 +38,7 @@ Sin embargo, se recomienda utilizar distribuciones orientadas al análisis de da
 
 
 
-## Author
+## Autor
 
 **Saúl Arciniega Esparza**, Ph.D., Profesor Asociado C de Tiempo Completo | [LinkedIn](https://www.linkedin.com/in/saularciniegaesparza/) | [Twitter](https://twitter.com/zaul_arciniega) | [ResearchGate](https://www.researchgate.net/profile/Saul-Arciniega-Esparza)
 
