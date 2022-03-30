@@ -8,7 +8,7 @@ Este es un curso introductorio de Python en el que se abarcan las estructuras b�
 
 ## Contenido
 
-El contenido de este curso se puede descargar en una computadora personal o lo puedes visualizar desde [Jypyter NBViewer](https://nbviewer.jupyter.org/github/SaulArciniegaEsparza/Python-Basico/tree/main/).
+El contenido de este curso se puede descargar en una computadora personal o lo puedes visualizar desde [DeepNote](https://deepnote.com/project/Python-Curso-Basico-vUdYD25tTn-BuYh2noc-Qw/%2F01_Introduccion.ipynb).
 
 Adicionalmente, puede cargar el contenido de forma interactiva con [Google Colab](https://colab.research.google.com) para trabajar en la nube.
 
@@ -43,8 +43,6 @@ Sin embargo, se recomienda utilizar distribuciones orientadas al análisis de da
 **Saúl Arciniega Esparza**, Ph.D., Profesor Asociado C de Tiempo Completo | [LinkedIn](https://www.linkedin.com/in/saularciniegaesparza/) | [Twitter](https://twitter.com/zaul_arciniega) | [ResearchGate](https://www.researchgate.net/profile/Saul-Arciniega-Esparza)
 
 [Hydrogeology Group](https://www.ingenieria.unam.mx/hydrogeology/) | [Facultad de Ingeniería](https://www.ingenieria.unam.mx/) de la [Universidad Nacional Autónoma de México](https://www.unam.mx/).
-
-
 
 <img src="/img/logo_01.png" alt="" width="200"/>
 
